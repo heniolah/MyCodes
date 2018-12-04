@@ -1,0 +1,9 @@
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_WFA\criptare_WFA\bin\Debug\criptare_WFA.exe.config
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_WFA\criptare_WFA\bin\Debug\criptare_WFA.exe
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_WFA\criptare_WFA\bin\Debug\criptare_WFA.pdb
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_WFA\criptare_WFA\obj\Debug\criptare_WFA.csprojResolveAssemblyReference.cache
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_WFA\criptare_WFA\obj\Debug\criptare_WFA.Form1.resources
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_WFA\criptare_WFA\obj\Debug\criptare_WFA.Properties.Resources.resources
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_WFA\criptare_WFA\obj\Debug\criptare_WFA.csproj.GenerateResource.Cache
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_WFA\criptare_WFA\obj\Debug\criptare_WFA.exe
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_WFA\criptare_WFA\obj\Debug\criptare_WFA.pdb
