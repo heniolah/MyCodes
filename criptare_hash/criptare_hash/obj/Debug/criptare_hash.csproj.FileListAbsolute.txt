@@ -1,0 +1,9 @@
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_hash\criptare_hash\bin\Debug\criptare_hash.exe.config
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_hash\criptare_hash\bin\Debug\criptare_hash.exe
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_hash\criptare_hash\bin\Debug\criptare_hash.pdb
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_hash\criptare_hash\obj\Debug\criptare_hash.csprojResolveAssemblyReference.cache
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_hash\criptare_hash\obj\Debug\criptare_hash.Form1.resources
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_hash\criptare_hash\obj\Debug\criptare_hash.Properties.Resources.resources
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_hash\criptare_hash\obj\Debug\criptare_hash.csproj.GenerateResource.Cache
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_hash\criptare_hash\obj\Debug\criptare_hash.exe
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_hash\criptare_hash\obj\Debug\criptare_hash.pdb
