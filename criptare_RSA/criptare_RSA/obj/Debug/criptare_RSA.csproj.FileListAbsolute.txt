@@ -1,0 +1,9 @@
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_RSA\criptare_RSA\bin\Debug\criptare_RSA.exe.config
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_RSA\criptare_RSA\bin\Debug\criptare_RSA.exe
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_RSA\criptare_RSA\bin\Debug\criptare_RSA.pdb
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_RSA\criptare_RSA\obj\Debug\criptare_RSA.csprojResolveAssemblyReference.cache
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_RSA\criptare_RSA\obj\Debug\criptare_RSA.Form1.resources
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_RSA\criptare_RSA\obj\Debug\criptare_RSA.Properties.Resources.resources
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_RSA\criptare_RSA\obj\Debug\criptare_RSA.csproj.GenerateResource.Cache
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_RSA\criptare_RSA\obj\Debug\criptare_RSA.exe
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_RSA\criptare_RSA\obj\Debug\criptare_RSA.pdb
