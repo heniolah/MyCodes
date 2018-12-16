@@ -131,5 +131,70 @@ namespace criptare_RSA
                 }
                 return decryptedData;
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Random rnd = new Random();
+            MyRSA.prim1 = MyRSA.generator.GetSequence().ElementAt(rnd.Next(1000, 10000));
+            MyRSA.prim2 = MyRSA.generator.GetSequence().ElementAt(rnd.Next(1000, 10000));
+            int temp_fi = 0;
+
+            temp_fi = Convert.ToInt32(MyRSA.fi / 2);  //se poate afla eroare pe linia acesta dar numai daca prim1 sau prim2 iese prea mare la generare rnd
+            int rndint = rnd.Next(1, temp_fi);
+            long element = rndint * 2;
+
+
+            MyRSA mr = new MyRSA();
+            mr.GCDRecursive(element, MyRSA.fi);
+
+            EuclidExtended ee = new EuclidExtended(1, MyRSA.fi);
+            EuclidExtendedSolution result = ee.calculate();
+            long d = Convert.ToInt64(result.D);
+            
+            MessageBox.Show("the public key: "+ mr.generatePublicKey(MyRSA.n, element).ToString());
+            MessageBox.Show("the private key: " + mr.generatePrivateKey(d).ToString());
+
+            listBox1.Items.Add(" ");
+            listBox1.Items.Add("Textul criptat:");
+            for (int i = 0; i < count; i++)
+            {
+                mr.Encrypt(elements[i], d);
+                long c1 = long.Parse(mr.Encrypt(elements[i], d));
+            }
+
+            
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Random rnd = new Random();
+            MyRSA.prim1 = MyRSA.generator.GetSequence().ElementAt(rnd.Next(1000, 10000));
+            MyRSA.prim2 = MyRSA.generator.GetSequence().ElementAt(rnd.Next(1000, 10000));
+            int temp_fi = 0;
+
+            temp_fi = Convert.ToInt32(MyRSA.fi / 2);
+            int rndint = rnd.Next(1, temp_fi);
+            long element = rndint * 2;
+
+
+            MyRSA mr = new MyRSA();
+            mr.GCDRecursive(element, MyRSA.fi);
+
+            EuclidExtended ee = new EuclidExtended(1, MyRSA.fi);
+            EuclidExtendedSolution result = ee.calculate();
+            long d = Convert.ToInt64(result.D);
+            listBox1.Items.Add(" ");
+            listBox1.Items.Add("Textul decriptat:");
+            for (int i = 0; i < count; i++)
+            {
+                long c1 = long.Parse(mr.Encrypt(elements[i], d));
+                mr.Decrypt(elements[i], c1, d);
+            }
+        }
     }
 }
