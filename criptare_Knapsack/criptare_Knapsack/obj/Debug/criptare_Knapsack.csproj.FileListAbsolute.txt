@@ -1,0 +1,9 @@
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_Knapsack\criptare_Knapsack\bin\Debug\criptare_Knapsack.exe.config
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_Knapsack\criptare_Knapsack\bin\Debug\criptare_Knapsack.exe
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_Knapsack\criptare_Knapsack\bin\Debug\criptare_Knapsack.pdb
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_Knapsack\criptare_Knapsack\obj\Debug\criptare_Knapsack.csprojResolveAssemblyReference.cache
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_Knapsack\criptare_Knapsack\obj\Debug\criptare_Knapsack.Form1.resources
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_Knapsack\criptare_Knapsack\obj\Debug\criptare_Knapsack.Properties.Resources.resources
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_Knapsack\criptare_Knapsack\obj\Debug\criptare_Knapsack.csproj.GenerateResource.Cache
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_Knapsack\criptare_Knapsack\obj\Debug\criptare_Knapsack.exe
+c:\users\tothg\documents\visual studio 2015\Projects\criptare_Knapsack\criptare_Knapsack\obj\Debug\criptare_Knapsack.pdb
