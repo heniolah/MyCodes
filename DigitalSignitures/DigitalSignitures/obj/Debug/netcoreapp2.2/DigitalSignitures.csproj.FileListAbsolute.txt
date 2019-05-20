@@ -1,0 +1,13 @@
+C:\Users\Heni\source\repos\DigitalSignitures\DigitalSignitures\bin\Debug\netcoreapp2.2\DigitalSignitures.deps.json
+C:\Users\Heni\source\repos\DigitalSignitures\DigitalSignitures\bin\Debug\netcoreapp2.2\DigitalSignitures.runtimeconfig.json
+C:\Users\Heni\source\repos\DigitalSignitures\DigitalSignitures\bin\Debug\netcoreapp2.2\DigitalSignitures.runtimeconfig.dev.json
+C:\Users\Heni\source\repos\DigitalSignitures\DigitalSignitures\bin\Debug\netcoreapp2.2\DigitalSignitures.dll
+C:\Users\Heni\source\repos\DigitalSignitures\DigitalSignitures\bin\Debug\netcoreapp2.2\DigitalSignitures.pdb
+C:\Users\Heni\source\repos\DigitalSignitures\DigitalSignitures\bin\Debug\netcoreapp2.2\BouncyCastle.Crypto.dll
+C:\Users\Heni\source\repos\DigitalSignitures\DigitalSignitures\obj\Debug\netcoreapp2.2\DigitalSignitures.csprojAssemblyReference.cache
+C:\Users\Heni\source\repos\DigitalSignitures\DigitalSignitures\obj\Debug\netcoreapp2.2\DigitalSignitures.csproj.CoreCompileInputs.cache
+C:\Users\Heni\source\repos\DigitalSignitures\DigitalSignitures\obj\Debug\netcoreapp2.2\DigitalSignitures.AssemblyInfoInputs.cache
+C:\Users\Heni\source\repos\DigitalSignitures\DigitalSignitures\obj\Debug\netcoreapp2.2\DigitalSignitures.AssemblyInfo.cs
+C:\Users\Heni\source\repos\DigitalSignitures\DigitalSignitures\obj\Debug\netcoreapp2.2\DigitalSignitures.csproj.CopyComplete
+C:\Users\Heni\source\repos\DigitalSignitures\DigitalSignitures\obj\Debug\netcoreapp2.2\DigitalSignitures.dll
+C:\Users\Heni\source\repos\DigitalSignitures\DigitalSignitures\obj\Debug\netcoreapp2.2\DigitalSignitures.pdb
